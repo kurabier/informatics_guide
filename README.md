@@ -1,4 +1,4 @@
-# prepairing_guides
+# infortmatics_guide
 Большой файл для подготовки к ЕГЭ по информатике: теория, примеры задачи, хитрости и функции на Python.
 Пособие всегда доступно по ссылке: https://kurabier.github.io/prepairing_guides/Prepairing_Guide_Informatics.pdf. 
 
